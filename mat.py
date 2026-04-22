@@ -11,5 +11,3 @@ plt.title("Simple line plot")
 
 plt.grid()
 plt.show() 
-
-print("hello")
