@@ -10,4 +10,6 @@ plt.ylabel("Y Axis")
 plt.title("Simple line plot")
 
 plt.grid()
-plt.show()
+plt.show() 
+
+print("hello")
