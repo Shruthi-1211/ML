@@ -6,4 +6,4 @@ print(Age) #this code is to print the age
 Height=167.5
 print(Height) #this code is to print the height
 sem=True
-print(sem) #this code is to print if semester passed or failed
+print(sem) #this code is to print semester result
