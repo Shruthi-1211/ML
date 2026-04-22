@@ -1,0 +1,11 @@
+list=["car","bike","cycle","truck"]
+print(list)
+print(list[2])
+list[0]="bus"
+print(list)
+list.append("van")
+print(list)
+list.remove("cycle")
+print(list)
+list.pop(1)
+print(list)

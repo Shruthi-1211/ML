@@ -1,0 +1,14 @@
+num=["apple","banana","cherry","kiwi"]
+num[2]="orange"
+print(num[0])
+print(num[1])
+print(num[2])
+print(num[3])
+num.append("grapes")
+print(num)
+num.insert(2,"berry")
+print(num)
+num.remove("berry")
+print(num)
+num.pop(2)
+print(num)
