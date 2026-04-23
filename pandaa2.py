@@ -8,5 +8,5 @@ data={
 df=pd.DataFrame(data)
 print(df)
 
-print(df.loc[2])
+print(df.loc[[2,3]])
 print(df.loc[7])
